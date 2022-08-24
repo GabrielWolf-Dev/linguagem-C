@@ -18,6 +18,13 @@ int main() {
   printf("Conteúdo da variável valor1: %p \n", valor1);
   printf("Conteúdo apontado pela variável valor1: %d \n", *valor1);
 
+  printf("\n ----------------------------- \n");
+
+  printf("Valor da variável letra2: %c \n", letra2);
+  printf("Endereço da variável letra2: %p \n", &letra2);
+  printf("Conteúdo da variável letra1: %p \n", letra1);
+  printf("Conteúdo apontado pela variável letra1: %c \n", *letra1);
+
   
   return 0;
 }
