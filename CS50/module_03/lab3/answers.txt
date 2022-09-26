@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Porque em 'sorted' é mais rapido do que o 'selection sort'
+
+sort2 uses: Merge
+
+How do you know?: Por ser o mais rapido no 'reversed'
+
+sort3 uses: Selection sort
+
+How do you know?: Pelo tempo em 'sorted' ser pior do que os outros
